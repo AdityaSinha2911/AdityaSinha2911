@@ -2,7 +2,7 @@
 Computer Science Engineering student building AI-driven systems and scalable backend solutions.
 Currently working on real-world AI projects, cloud deployments, and sharpening problem-solving skills.
 
-#📌 Current Focus
+📌 Current Focus
 
 AI projects & automation systems
 
@@ -10,7 +10,7 @@ Cloud-based application deployment
 
 Data Structures & Algorithms
 
-#🤝 Open To
+🤝 Open To
 
 Internships • AI projects • Cloud & Backend collaborations
 
