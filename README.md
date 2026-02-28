@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Aditya 👋
 
-<!--
-**AdityaSinha2911/AdityaSinha2911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering student building AI-driven systems and scalable backend solutions.
 
-Here are some ideas to get you started:
+Currently working on real-world AI projects, cloud deployments, and sharpening problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tech Stack
+
+Python • C++ • HTML/CSS • AI/ML • AWS • Git
+
+📌 Current Focus
+
+AI projects & automation systems
+
+Cloud-based application deployment
+
+Data Structures & Algorithms
+
+🤝 Open To
+
+Internships • AI projects • Cloud & Backend collaborations
+
+Connect Me: https://www.linkedin.com/in/adityaks11/
