@@ -1,4 +1,3 @@
-#  About Me:
 Computer Science Engineering student building AI-driven systems and scalable backend solutions.
 Currently working on real-world AI projects, cloud deployments, and sharpening problem-solving skills.
 
