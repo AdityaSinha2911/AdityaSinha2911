@@ -1,18 +1,6 @@
 Computer Science Engineering student building AI-driven systems and scalable backend solutions.
 Currently working on real-world AI projects, cloud deployments, and sharpening problem-solving skills.
 
-📌 Current Focus
-
-AI projects & automation systems
-
-Cloud-based application deployment
-
-Data Structures & Algorithms
-
-🤝 Open To
-
-Internships • AI projects • Cloud & Backend collaborations
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityaks11/) 
 
